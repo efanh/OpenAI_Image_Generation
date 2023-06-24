@@ -1,3 +1,5 @@
+Full stack MERN AI image generation application 
+    
     To run:
       -Open terminal
         -In ./client type:
